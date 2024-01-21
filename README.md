@@ -1,33 +1,74 @@
-# 👋 Hi, I’m @X8X-XZDX
+# Hello Hacker
+### If you have ended up here, you noticed something is very wrong, or you are looking for hardware support that no one else has.
 
-### I am guessing this is some microsoy employee's blog tool now, but no matter really.  
+And I welcome you.
 
-# My name doesn't matter, but my origins do.  
 
-I was a member of Tek Syndicate back before the corporate hell hole of Level1Techs ruined one of the last great webforums, and one of few that correctly
-used its preferred forum software.  But its gone so far to the back of my mind I don't remember the name of it, or really care anymore.  Point is, my
-projects used to be based on that forum.
 
-Because of recent events, I am abandoning that board.  They are much too close to reddit at this point, quite literally in business and in social space.
+# What is SuckerPunch Foundries?
 
-# Current Projects
+X8X, the shorthand, is a text joke on FacePunch Studios logo.
+SuckerPunch itself is the message we send.
 
-## Void POWER
-##### POWER TO THE PEOPLE
+In a way you could call us renegades, wanting to run machines and systems that not everyone has anymore, either because its what we have, or its what we like.  However, it is good to remember that not everyone has the newest systems, and to ignore that is vitriol at its finest.
 
-QUITE LITERALLY.  This started as a PPC port, with a little and big endian port each.  However, I have a new plan.  Because of what happened to the previous
-project (It got hijacked and trashed by @Q66), the new project not only is going to support BE and LE PowerPC / POWER, but I am going to be a pedantic asshole
-about allowing other usergroups to run the OS.  Specific to Void POWER there will be a few tools to allow for unified group building over P2P networks, tools /
-menus to allow for easily made user-hosted repositories and "Build Parties", and many other features that I have yet to announce.
 
-As of now I only have PPC BE machines, though technically I guess my PS3 is LE.  My G4 and G5 based macs are all I got for now, so I am doing what I can with
-what I have.  However, I want to get a full Talos 2 with dual 22 core La Grange CPU's, 256GB of ram, and hopefully a built out network for it to use.  I might
-need to colo it though, IDK yet.  I have asked Raptor for compute time, but no reply yet.
 
-For now, I will be continuing the original Void PPC project under the name Void POWER, and now with the express goal of allowing Void to be run on more platforms.
-Theres a short list of platforms I would like to make Void available on, but until the repo is up I'll save that for later.  We will be starting with POWER as
-thats what was last worked on, and attempt picking up ARM later on.  These are the two platforms I am personally interested in, so they are what I will be supporting.
-However, if a user has an interest in a platform, there will be tools to help port.
+# What do you do?
 
-Other plans include: Plan 9 integrations (WIP), P9 GRID NET, BTFS, User Scripts / PreConfigurations, Multiple Desktops Available w/ ISO, and more that I
-don't care about bcause its 4AM and I'm working a 3rd in a gas station right now...
+Research, mostly.  Much of the work that goes into what we do is in an effort to learn more about how it works, how to repair it, and how to make it easier to manage for other people, whatever it is.
+
+
+
+# What sort of hardware?
+
+X86-32, Itanium, PowerPC BE (32/64), i528 and related chips (Pent 4, Pent M), Pentium 3/2/1, Sparc, Arm32, and many other architectures.
+
+
+
+# Uh, Why?
+
+I want you to put yourself in the place of @awilfox, a developer that WOULD have an insulin pump.... had any of the current devs out there bothered to keep Arm32 up to date.
+
+Hacker, theres a modern issue that we face where we are quickly approaching the inability to manage our own lives.  Insulin pumps, cars, and even your own computer.  Not only is there good reason to install 1vyrain on your thinkpad, there is good reason to NOT buy that new M3 macbook, as much as I want one too.
+
+
+
+# ??????
+
+In a world where we barely use 10GB files, we have systems capable of addressing crazy amounts of data, but no one end user has the ability to use all the power their hardware has.  We replace good code with more resources, and hardly fix the problems at hand.  Take Valve's source engine for instance, or the absolute spaghetti code that had to be rev-enged in Mario 64 just to get the game over 20FPS.  Now it runs at 60, on almost anything.  Its basically the new doom.
+
+
+
+# So you're crazy?
+
+I mean probably, but knowing many people that are stranded in places like Africa, Greenland, even in Alaska, where tech doesn't move in big quantities, new or old....  Someone has to do the support somewhere.
+
+
+
+# So what is the main goal?
+
+Currently?  Get Void PowerPC running again under a new name:  VoidPOWER, shorthand vP.  Power to the People.  Running on as many architectures as possible, and as the basis for more projects.
+
+To document any hardware seen as useable, and inventory what parts can be gotten, and if none are found, to create new schematics to build new parts (Ex: Gas Plasma Displays / LCD Replacement units)
+
+To research, itemize, and hack, every, single, interesting thing that is considered junk (Ex: Grid K2 as a desktop GPU, piped to Intel igpu, one GPU for games, one GPU for streaming)
+
+To create a new form of Market out of spite in order to completely uproot the current expectations made by corporations and companies, completely user driven.
+
+and
+
+To spread as much anti-propaganda as possible, by any and all means necessary, for any and all means necessary.
+
+You will never convince me that your OS is good if it can't detect netbook ACPI SSDT and DSDT tables.
+You will never convince me that your system is superior if it is not as fast, snappy, moddable, and applicable as Adelie Linux, Void Linux, or SLiTaz.
+And
+For as long as I live, for as long as systems like Kolibri exist, you will never, ever, whatsoever, convince me that your install base needs to be over 4GB.
+
+X8X will always work to better utilize resources, and teach as many people as possible how to do the same.  If nothing else, it will be in a pure effort of true self-independance for all.
+
+
+
+# That sounds wack
+
+Then you're part of the problem.
